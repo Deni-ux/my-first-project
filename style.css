@@ -2,3 +2,7 @@ h1 {
   text-align: center;
   color: rgb(183, 0, 255);
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
